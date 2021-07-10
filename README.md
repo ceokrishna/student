@@ -1,2 +1,0 @@
-# student
-Crud operations development
